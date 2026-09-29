@@ -23,14 +23,3 @@ from the logo icon in the top bar.
 - Real course photos (same images used on the website) on Home, Overview,
   each course detail page, and the About Us team photo.
 
-## What you still need to do
-
-- **Logo**: `ic_logo.xml` is a simple drawn version. Replace with your
-  group's actual logo file if you have the original.
-- **Course content**: the "Includes" list for six of the seven courses (all
-  except Canine Obedience Training) was written as a placeholder — check it
-  against what your group actually decided, or write your own.
-- **Push to GitHub**: this needs to go in your group's public mobile-app
-  repository, separate from the website repository.
-- **Test on a real device/emulator** before recording your video, and check
-  the app matches your final draw.io wireframes.
