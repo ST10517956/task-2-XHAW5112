@@ -1,0 +1,94 @@
+[
+    {
+        "merged": "com.pawsitive.petacademy.app-debug-48:/drawable_img_pet_grooming.webp.flat",
+        "source": "com.pawsitive.petacademy.app-main-50:/drawable/img_pet_grooming.webp"
+    },
+    {
+        "merged": "com.pawsitive.petacademy.app-debug-48:/drawable_bg_button_coral.xml.flat",
+        "source": "com.pawsitive.petacademy.app-main-50:/drawable/bg_button_coral.xml"
+    },
+    {
+        "merged": "com.pawsitive.petacademy.app-debug-48:/layout_activity_main.xml.flat",
+        "source": "com.pawsitive.petacademy.app-main-50:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.pawsitive.petacademy.app-debug-48:/drawable_img_pet_business_management.webp.flat",
+        "source": "com.pawsitive.petacademy.app-main-50:/drawable/img_pet_business_management.webp"
+    },
+    {
+        "merged": "com.pawsitive.petacademy.app-debug-48:/drawable_img_canine_obedience.webp.flat",
+        "source": "com.pawsitive.petacademy.app-main-50:/drawable/img_canine_obedience.webp"
+    },
+    {
+        "merged": "com.pawsitive.petacademy.app-debug-48:/layout_fragment_about.xml.flat",
+        "source": "com.pawsitive.petacademy.app-main-50:/layout/fragment_about.xml"
+    },
+    {
+        "merged": "com.pawsitive.petacademy.app-debug-48:/drawable_img_puppy_care.webp.flat",
+        "source": "com.pawsitive.petacademy.app-main-50:/drawable/img_puppy_care.webp"
+    },
+    {
+        "merged": "com.pawsitive.petacademy.app-debug-48:/drawable_img_basic_dog_walking.webp.flat",
+        "source": "com.pawsitive.petacademy.app-main-50:/drawable/img_basic_dog_walking.webp"
+    },
+    {
+        "merged": "com.pawsitive.petacademy.app-debug-48:/layout_item_course_checkbox.xml.flat",
+        "source": "com.pawsitive.petacademy.app-main-50:/layout/item_course_checkbox.xml"
+    },
+    {
+        "merged": "com.pawsitive.petacademy.app-debug-48:/layout_fragment_contact.xml.flat",
+        "source": "com.pawsitive.petacademy.app-main-50:/layout/fragment_contact.xml"
+    },
+    {
+        "merged": "com.pawsitive.petacademy.app-debug-48:/drawable_img_animal_behaviour.webp.flat",
+        "source": "com.pawsitive.petacademy.app-main-50:/drawable/img_animal_behaviour.webp"
+    },
+    {
+        "merged": "com.pawsitive.petacademy.app-debug-48:/layout_fragment_course_detail.xml.flat",
+        "source": "com.pawsitive.petacademy.app-main-50:/layout/fragment_course_detail.xml"
+    },
+    {
+        "merged": "com.pawsitive.petacademy.app-debug-48:/layout_fragment_overview.xml.flat",
+        "source": "com.pawsitive.petacademy.app-main-50:/layout/fragment_overview.xml"
+    },
+    {
+        "merged": "com.pawsitive.petacademy.app-debug-48:/drawable_bg_card.xml.flat",
+        "source": "com.pawsitive.petacademy.app-main-50:/drawable/bg_card.xml"
+    },
+    {
+        "merged": "com.pawsitive.petacademy.app-debug-48:/navigation_nav_graph.xml.flat",
+        "source": "com.pawsitive.petacademy.app-main-50:/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "com.pawsitive.petacademy.app-debug-48:/layout_item_course.xml.flat",
+        "source": "com.pawsitive.petacademy.app-main-50:/layout/item_course.xml"
+    },
+    {
+        "merged": "com.pawsitive.petacademy.app-debug-48:/layout_fragment_fees.xml.flat",
+        "source": "com.pawsitive.petacademy.app-main-50:/layout/fragment_fees.xml"
+    },
+    {
+        "merged": "com.pawsitive.petacademy.app-debug-48:/drawable_img_pet_first_aid.webp.flat",
+        "source": "com.pawsitive.petacademy.app-main-50:/drawable/img_pet_first_aid.webp"
+    },
+    {
+        "merged": "com.pawsitive.petacademy.app-debug-48:/menu_bottom_nav_menu.xml.flat",
+        "source": "com.pawsitive.petacademy.app-main-50:/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "com.pawsitive.petacademy.app-debug-48:/drawable_bg_photo_placeholder.xml.flat",
+        "source": "com.pawsitive.petacademy.app-main-50:/drawable/bg_photo_placeholder.xml"
+    },
+    {
+        "merged": "com.pawsitive.petacademy.app-debug-48:/layout_fragment_home.xml.flat",
+        "source": "com.pawsitive.petacademy.app-main-50:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.pawsitive.petacademy.app-debug-48:/drawable_ic_logo.xml.flat",
+        "source": "com.pawsitive.petacademy.app-main-50:/drawable/ic_logo.xml"
+    },
+    {
+        "merged": "com.pawsitive.petacademy.app-debug-48:/drawable_img_team_photo.webp.flat",
+        "source": "com.pawsitive.petacademy.app-main-50:/drawable/img_team_photo.webp"
+    }
+]

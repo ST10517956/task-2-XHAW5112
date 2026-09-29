@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "com.pawsitive.petacademy.app-mergeDebugResources-47:/layout/fragment_course_detail.xml",
+        "source": "com.pawsitive.petacademy.app-main-50:/layout/fragment_course_detail.xml"
+    },
+    {
+        "merged": "com.pawsitive.petacademy.app-mergeDebugResources-47:/layout/item_course_checkbox.xml",
+        "source": "com.pawsitive.petacademy.app-main-50:/layout/item_course_checkbox.xml"
+    },
+    {
+        "merged": "com.pawsitive.petacademy.app-mergeDebugResources-47:/layout/fragment_home.xml",
+        "source": "com.pawsitive.petacademy.app-main-50:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.pawsitive.petacademy.app-mergeDebugResources-47:/layout/fragment_contact.xml",
+        "source": "com.pawsitive.petacademy.app-main-50:/layout/fragment_contact.xml"
+    },
+    {
+        "merged": "com.pawsitive.petacademy.app-mergeDebugResources-47:/layout/fragment_overview.xml",
+        "source": "com.pawsitive.petacademy.app-main-50:/layout/fragment_overview.xml"
+    },
+    {
+        "merged": "com.pawsitive.petacademy.app-mergeDebugResources-47:/layout/activity_main.xml",
+        "source": "com.pawsitive.petacademy.app-main-50:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.pawsitive.petacademy.app-mergeDebugResources-47:/layout/fragment_about.xml",
+        "source": "com.pawsitive.petacademy.app-main-50:/layout/fragment_about.xml"
+    },
+    {
+        "merged": "com.pawsitive.petacademy.app-mergeDebugResources-47:/layout/fragment_fees.xml",
+        "source": "com.pawsitive.petacademy.app-main-50:/layout/fragment_fees.xml"
+    },
+    {
+        "merged": "com.pawsitive.petacademy.app-mergeDebugResources-47:/layout/item_course.xml",
+        "source": "com.pawsitive.petacademy.app-main-50:/layout/item_course.xml"
+    }
+]
